@@ -1,0 +1,2 @@
+gameserver1:3389
+gameserver1:50001
